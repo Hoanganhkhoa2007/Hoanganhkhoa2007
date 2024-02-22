@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Hoanganhkhoa2007
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Hoanganhkhoa2007/Hoanganhkhoa2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested
+- 🌱 I'm currently in high school
+- 💞️ I'm looking to collaborate on social platforms
+- 📫 How to contact me:khoahoanghotboy@gmail.com
+- ⚡ Interesting fact: According to research by scientists, people with high IQ dream more at night
+- I hope to know more about you
